@@ -2,7 +2,7 @@
 Machine Learning based Vehicle Performance Analyzer
 
 
-           TEAM  MEMBERS:
+           TEAM  MEMBERS
 
       1.VINOTHINI M K(Team Leader)
       2.PETCHIAMMAL A(Team Member)
